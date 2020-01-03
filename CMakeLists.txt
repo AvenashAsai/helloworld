@@ -1,2 +1,2 @@
-add_executable(helloworld main.c)
+add_executable(helloworld main.cpp)
 install(TARGETS helloworld DESTINATION bin)
